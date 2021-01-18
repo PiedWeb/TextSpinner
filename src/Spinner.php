@@ -6,7 +6,7 @@ class Spinner
 {
     public static function spin(string $text): string
     {
-        if (!preg_match('/\{(.*)\}/si', $text)) {
+        if (! preg_match('/\{(.*)\}/si', $text)) {
             return self::removeExtraSpaces($text);
         } else {
             preg_match_all('/\{([^{}]*)\}/si', $text, $matches);
