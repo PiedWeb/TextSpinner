@@ -1,1 +1,1 @@
-C:37:"PHPUnit\Runner\DefaultTestResultCache":109:{a:2:{s:7:"defects";a:0:{}s:5:"times";a:1:{s:49:"PiedWeb\TextSpinner\Test\SpinnerTest::testSpinner";d:0.006;}}}
+C:37:"PHPUnit\Runner\DefaultTestResultCache":109:{a:2:{s:7:"defects";a:0:{}s:5:"times";a:1:{s:49:"PiedWeb\TextSpinner\Test\SpinnerTest::testSpinner";d:0.008;}}}
